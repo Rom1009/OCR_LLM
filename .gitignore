@@ -4,3 +4,5 @@
 /dataset
 
 /ocr_llm.egg-info
+
+/notebooks/output_dir
